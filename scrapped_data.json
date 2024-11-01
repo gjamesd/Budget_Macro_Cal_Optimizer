@@ -1,0 +1,398 @@
+{
+    "90% ground beef": {
+        "Quantity": "16 oz",
+        "Price": "$7.48",
+        "Fats": "11 g",
+        "Carbs": "0 g",
+        "Protein": "22 g",
+        "Calories": "200",
+        "Servings": "4"
+    },
+    "brown rice": {
+        "Quantity": "32 oz",
+        "Price": "$1.64",
+        "Fats": "1.5 g",
+        "Carbs": "32 g",
+        "Protein": "3 g",
+        "Calories": "150",
+        "Servings": "21"
+    },
+    "boneless skinless chicken breast": {
+        "Quantity": "112 g",
+        "Price": "$7.96",
+        "Fats": "4 g",
+        "Carbs": "0 g",
+        "Protein": "25 g",
+        "Calories": "140",
+        "Servings": "12"
+    },
+    "whole milk": {
+        "Quantity": "3785 ml",
+        "Price": "$3.22",
+        "Fats": "8 g",
+        "Carbs": "12 g",
+        "Protein": "78 g",
+        "Calories": "150",
+        "Servings": "16"
+    },
+    "frozen broccoli": {
+        "Quantity": "12 oz",
+        "Price": "$1.16",
+        "Fats": "0 g",
+        "Carbs": "5 g",
+        "Protein": "3 g",
+        "Calories": "30",
+        "Servings": "4"
+    },
+    "Salmon": {
+        "Quantity": "16 oz",
+        "Price": "$9.92",
+        "Fats": "18 g",
+        "Carbs": "0 g",
+        "Protein": "23 g",
+        "Calories": "250",
+        "Servings": "4"
+    },
+    "Quinoa": {
+        "Quantity": "16 oz",
+        "Price": "$3.38",
+        "Fats": "2.5 g",
+        "Carbs": "29 g",
+        "Protein": "6 g",
+        "Calories": "170",
+        "Servings": "10"
+    },
+    "Eggs": {
+        "Quantity": "18",
+        "Price": "$3.22",
+        "Fats": "5 g",
+        "Carbs": "0 g",
+        "Protein": "6 g",
+        "Calories": "70",
+        "Servings": "18"
+    },
+    "Kodiak Cakes protein pancake mix": {
+        "Quantity": "20 oz",
+        "Price": "$5.72",
+        "Fats": "2.5 g",
+        "Carbs": "37 g",
+        "Protein": "15 g",
+        "Calories": "220",
+        "Servings": "9"
+    },
+    "Greek yogurt": {
+        "Price": "$3.54",
+        "Quantity": "32 oz",
+        "Fats": "0 g",
+        "Carbs": "7 g",
+        "Protein": "17 g",
+        "Calories": "100",
+        "Servings": "5"
+    },
+    "wheat bread": {
+        "Price": "$2.98",
+        "Quantity": "22.5 oz",
+        "Fats": "1 g",
+        "Carbs": "20 g",
+        "Protein": "5 g",
+        "Calories": "110",
+        "Servings": "15"
+    },
+    "sweet potatoe": {
+        "Price": "$4.42",
+        "Quantity": "46 oz",
+        "Fats": "0.5 g",
+        "Carbs": "29 g",
+        "Protein": "1.6 g",
+        "Calories": "86",
+        "Servings": "13"
+    },
+    "wholly guacamole": {
+        "Price": "$4.88",
+        "Quantity": "72 oz",
+        "Fats": "10 g",
+        "Carbs": "5 g",
+        "Protein": "1 g",
+        "Calories": "120",
+        "Servings": "6"
+    },
+    "peanut butter": {
+        "Price": "$2.98",
+        "Quantity": "16.3 oz",
+        "Fats": "16 g",
+        "Carbs": "6 g",
+        "Protein": "7 g",
+        "Calories": "190",
+        "Servings": "14"
+    },
+    "honey": {
+        "Price": "$7.97",
+        "Quantity": "16 oz",
+        "Fats": "0 g",
+        "Carbs": "18 g",
+        "Protein": "0 g",
+        "Calories": "70",
+        "Servings": "22"
+    },
+    "canned tuna": {
+        "Price": "$4.64",
+        "Quantity": "20 oz",
+        "Fats": "1 g",
+        "Carbs": "0 g",
+        "Protein": "22 g",
+        "Calories": "100",
+        "Servings": "4"
+    },
+    "coottage cheese": {
+        "Price": "$2.98",
+        "Quantity": "24 oz",
+        "Fats": "5 g",
+        "Carbs": "5 g",
+        "Protein": "12 g",
+        "Calories": "110",
+        "Servings": "6"
+    },
+    "shrimp": {
+        "Price": "$5.47",
+        "Quantity": "12 oz",
+        "Fats": "1.5 g",
+        "Carbs": "2 g",
+        "Protein": "12 g",
+        "Calories": "70",
+        "Servings": "4"
+    },
+    "ground turkey": {
+        "Price": "$1.98",
+        "Quantity": "16 oz",
+        "Fats": "15 g",
+        "Carbs": "0 g",
+        "Protein": "15 g",
+        "Calories": "200",
+        "Servings": "4"
+    },
+    "lentils": {
+        "Price": "$6.99",
+        "Quantity": "16 oz",
+        "Fats": "0 g",
+        "Carbs": "29 g",
+        "Protein": "11 g",
+        "Calories": "160",
+        "Servings": "10"
+    },
+    "chickpeas": {
+        "Price": "$1.28",
+        "Quantity": "15.5 oz",
+        "Fats": "2 g",
+        "Carbs": "21 g",
+        "Protein": "7 g",
+        "Calories": "120",
+        "Servings": "2.5"
+    },
+    "edamame": {
+        "Price": "$1.92",
+        "Quantity": "12 oz",
+        "Fats": "4 g",
+        "Carbs": "6 g",
+        "Protein": "10 g",
+        "Calories": "90",
+        "Servings": "4"
+    },
+    "whey protein powder": {
+        "Price": "$27.94",
+        "Quantity": "24 oz",
+        "Fats": "1.5 g",
+        "Carbs": "3 g",
+        "Protein": "24 g",
+        "Calories": "120",
+        "Servings": "22"
+    },
+    "Kodiak protein oats": {
+        "Price": "$5.28",
+        "Quantity": "16 oz",
+        "Fats": "4 g",
+        "Carbs": "29 g",
+        "Protein": "10 g",
+        "Calories": "190",
+        "Servings": "9"
+    },
+    "frozen butternut squash": {
+        "Price": "$1.92",
+        "Quantity": "10 oz",
+        "Fats": "0 g",
+        "Carbs": "12 g",
+        "Protein": "1 g",
+        "Calories": "45",
+        "Servings": "3.5"
+    },
+    "frozen bananas": {
+        "Price": "$2.47",
+        "Quantity": "16 oz",
+        "Fats": "0 g",
+        "Carbs": "32 g",
+        "Protein": "2 g",
+        "Calories": "120",
+        "Servings": "3"
+    },
+    "apple slices": {
+        "Price": "$5.97",
+        "Quantity": "24 oz",
+        "Fats": "0 g",
+        "Carbs": "18 g",
+        "Protein": "0 g",
+        "Calories": "80",
+        "Servings": "5"
+    },
+    "frozen berries": {
+        "Price": "$3.52",
+        "Quantity": "16 oz",
+        "Fats": "0 g",
+        "Carbs": "16 g",
+        "Protein": "0 g",
+        "Calories": "70",
+        "Servings": "3"
+    },
+    "black beans": {
+        "Price": "$1.28",
+        "Quantity": "15 oz",
+        "Fats": "0 g",
+        "Carbs": "21 g",
+        "Protein": "7 g",
+        "Calories": "110",
+        "Servings": "3.5"
+    },
+    "kidney beans": {
+        "Price": "$1.28",
+        "Quantity": "15 oz",
+        "Fats": "0 g",
+        "Carbs": "20 g",
+        "Protein": "7 g",
+        "Calories": "110",
+        "Servings": "3.5"
+    },
+    "whole-wheat pasta": {
+        "Price": "$1.43",
+        "Quantity": "16 oz",
+        "Fats": "1 g",
+        "Carbs": "38 g",
+        "Protein": "7 g",
+        "Calories": "200",
+        "Servings": "8"
+    },
+    "olive oil": {
+        "Price": "$9.47",
+        "Quantity": "16.9 oz",
+        "Fats": "14 g",
+        "Carbs": "0 g",
+        "Protein": "0 g",
+        "Calories": "120",
+        "Servings": "33"
+    },
+    "coconut oil": {
+        "Price": "$9.42",
+        "Quantity": "28 oz",
+        "Fats": "14 g",
+        "Carbs": "0 g",
+        "Protein": "0 g",
+        "Calories": "120",
+        "Servings": "55"
+    },
+    "hummus": {
+        "Price": "$3.97",
+        "Quantity": "10 oz",
+        "Fats": "6 g",
+        "Carbs": "5 g",
+        "Protein": "2 g",
+        "Calories": "79",
+        "Servings": "28"
+    },
+    "turkey breast": {
+        "Price": "$4.48",
+        "Quantity": "9 oz",
+        "Fats": "1 g",
+        "Carbs": "2 g",
+        "Protein": "9 g",
+        "Calories": "50",
+        "Servings": "4.5"
+    },
+    "sirloin steak": {
+        "Price": "$11.90",
+        "Quantity": "26 oz",
+        "Fats": "16 g",
+        "Carbs": "0 g",
+        "Protein": "22 g",
+        "Calories": "240",
+        "Servings": "4"
+    },
+    "pork tenderloin": {
+        "Price": "$8.23",
+        "Quantity": "26 oz",
+        "Fats": "2.5 g",
+        "Carbs": "0 g",
+        "Protein": "23 g",
+        "Calories": "120",
+        "Servings": "4"
+    },
+    "frozen green peas": {
+        "Price": "$0.98",
+        "Quantity": "12 oz",
+        "Fats": "0 g",
+        "Carbs": "12 g",
+        "Protein": "4 g",
+        "Calories": "70",
+        "Servings": "4"
+    },
+    "baby cut carrots": {
+        "Price": "$1.32",
+        "Quantity": "16 oz",
+        "Fats": "0 g",
+        "Carbs": "11 g",
+        "Protein": "1 g",
+        "Calories": "45",
+        "Servings": "4"
+    },
+    "yukon potatoes": {
+        "Price": "$6.48",
+        "Quantity": "48 oz",
+        "Fats": "0 g",
+        "Carbs": "26 g",
+        "Protein": "3 g",
+        "Calories": "110",
+        "Servings": "10"
+    },
+    "goat cheese": {
+        "Price": "$3.48",
+        "Quantity": "4 oz",
+        "Fats": "5 g",
+        "Carbs": "3 g",
+        "Protein": "4 g",
+        "Calories": "80",
+        "Servings": "4"
+    },
+    "mozzarella string cheese": {
+        "Price": "$3.34",
+        "Quantity": "12 oz",
+        "Fats": "6 g",
+        "Carbs": "0 g",
+        "Protein": "7 g",
+        "Calories": "80",
+        "Servings": "12"
+    },
+    "Bibigo cooked white rice bowls": {
+        "Price": "$21.49",
+        "Quantity": "59.2 oz",
+        "Fats": "1 g",
+        "Carbs": "71 g",
+        "Protein": "6 g",
+        "Calories": "310",
+        "Servings": "8"
+    },
+    "thai red currry paste": {
+        "Price": "$3.98",
+        "Quantity": "4 oz",
+        "Fats": "1 g",
+        "Carbs": "0 g",
+        "Protein": "0 g",
+        "Calories": "5",
+        "Servings": "23"
+    }
+}
